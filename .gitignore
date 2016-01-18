@@ -1,0 +1,6 @@
+.undo/**
+.backup/**
+.swp/**
+!.undo/.gitkeep
+!.backup/.gitkeep
+!.swp/.gitkeep
